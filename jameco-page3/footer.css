@@ -8,3 +8,10 @@
 body {
     background: #eef8ff;
 }
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(to right, #00093c, #2d0b00);
+}
