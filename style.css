@@ -18,8 +18,8 @@
     transition: all .40s;
 }
 .row img{
-    width: 100%;
-    height: auto;
+    width:300px;
+    height: 200px ;
     transition: all .40s;
 }
 .row img:hover{
