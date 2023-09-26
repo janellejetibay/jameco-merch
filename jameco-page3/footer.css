@@ -137,6 +137,7 @@ form {
     position: absolute;
     top: 25px;
     left: 0;
+    overflow: hidden;
  }
 
  .underline span {
@@ -150,4 +151,20 @@ form {
     animation: moving 2s linear infinite;
  }
 
- 
+ @keyframes moving {
+    0% {
+         left: -20px;
+    }
+    100% {
+        left: 100%;
+   }
+ }
+
+ .fa-instagram {
+    background-color: #eef8ff;
+ }
+
+ .fa-instagram:hover {
+    background-color: rgb(132, 12, 76);
+ }
+
