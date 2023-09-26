@@ -21,8 +21,6 @@ body {
     float: right;
     height: 100%;
     margin: 0 auto;
-    font-size: medium;
-    font-family: 'Raleway', sans-serif;
 }
 
 .navigation a{
@@ -38,4 +36,6 @@ body {
     height: 100%;
     text-decoration: underline;
     color: blue;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
 }
