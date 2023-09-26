@@ -120,3 +120,34 @@ form {
     margin-right: 15px;
     cursor: pointer;
  }
+
+ .we {
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 9px;
+    color: white;
+    text-align: center;
+ }
+
+ .underline {
+    width: 50%;
+    height: 5px;
+    background: #767676;
+    border-radius: 3px;
+    position: absolute;
+    top: 25px;
+    left: 0;
+ }
+
+ .underline span {
+    width: 15px;
+    height: 100%;
+    background: #fff;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    animation: moving 2s linear infinite;
+ }
+
+ 
