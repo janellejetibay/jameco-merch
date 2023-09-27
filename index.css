@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: #aacde6;
 }
 
 .header {
@@ -71,4 +71,8 @@ p.we {
     position: absolute;
     bottom: 0;
     right: 160px;
+}
+
+.arrow-icons {
+    margin-left: 600px;
 }

@@ -1,0 +1,15 @@
+* {
+    border: 3px solid aqua;
+    width: 100%;
+}
+
+.location{
+    font-size: 25px;
+    color: blue;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color: aliceblue;
+}
