@@ -40,17 +40,35 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-.content h1{
+h1.you {
+    margin-top: 200px;
     font-size: 60px;
-    font-weight: 100px;
-    margin-top: 18px;
-    margin-bottom: 300px;
-    color: #000080;
-    font-family: 'Raleway';
+    margin-left: 60px;
+    color: #03396C;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.content p{
-    font-size: 60px;
-    color: #000080;
-    font-family:'Times New Roman';
+h3.me {
+    margin-top: 60px ;
+    font-size: 20px;
+    color: #005B96;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 90px;
+
+}
+
+p.we {
+    margin-top: 90px;
+    font-size: 35px;
+    color:#6497B1 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 80px;
+}
+
+.feature-img {
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    right: 160px;
 }
