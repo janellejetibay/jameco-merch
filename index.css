@@ -71,8 +71,10 @@ p.we {
     position: absolute;
     bottom: 0;
     right: 160px;
+    margin-left: 1300px;
 }
 
-.arrow-icons {
-    margin-left: 600px;
+.arrow-icons{
+    margin-left: 1300px;
+    margin-right: 600px;
 }
